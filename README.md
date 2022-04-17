@@ -15,4 +15,4 @@ Automatic renewal of the game upon a selected winner is not implemented.
 
 ## More on WebRTC
 
-This application uese STUN and TURN servers provided by the peerJS package. When a player is on a different network, behind a NAT, communication is routed through these servers to allow for communication behind the NAT. 
+This application uses STUN and TURN servers provided by the peerJS package provider. When a player is on a different network, behind a NAT, communication is routed through these servers to allow for communication behind the NAT. 
